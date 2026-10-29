@@ -46,6 +46,7 @@ Input: 5
 Hollow Diamond
 Enter number of rows :5
 Dimensions validated! Generating pattern...
+
                 *
             *       *
         *               *
