@@ -14,7 +14,8 @@ The Advanced Numeric Pattern Generator is a Python program that generates a holl
    - Print spaces between the stars.
 8. Print the lower half of the diamond using a reverse loop.
 9. Stop the program.
-#Mermaid Flowchart
+
+# Mermaid Flowchart
 ```mermaid
 
 flowchart TD
