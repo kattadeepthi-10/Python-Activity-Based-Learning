@@ -72,7 +72,6 @@ Books Reconciled & Returned to Shelf:
 ['BK101', 'BK102', 'BK103']
 
 
-
 Sample calculations
 - BK101: 4 overdue days × $0.50 = $2.00
 - BK102: Returned on time, so the fine is $0.00.
