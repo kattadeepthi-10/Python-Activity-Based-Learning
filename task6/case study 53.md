@@ -11,9 +11,8 @@ If the wastage percentage exceeds 15%, the program displays “EXCEEDS LIMIT”.
 5. Iterate through each day's data using a for loop.
 6. Extract the number of prepared meals and leftovers.
 7. Calculate the wastage percentage using the formula:
-\[
-\text{Wastage \%}=\frac{\text{Leftovers}}{\text{Prepared meals}}\times100
-\]
+Wastage %=(Leftovers/Prepared meals)x100
+
 
 8. If the wastage percentage is greater than 15%, set the status to “EXCEEDS LIMIT”.
 9. Otherwise, set the status to “ACCEPTABLE”.
